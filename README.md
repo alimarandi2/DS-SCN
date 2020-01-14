@@ -1,6 +1,4 @@
-# DS-SCN
-
-Bloom Filter-based Routing for Dominating Set-based Service-Centric Networks
+# Bloom Filter-based Routing for Dominating Set-based Service-Centric Networks
 
 
 ## Abstract
@@ -20,6 +18,10 @@ A DS is a subset of a graph, where each element of the graph is either in the su
 or directly adjacent to an element of the subset. A CDS is a DS, where all elements of
 the subset are connected. We propose fully distributed algorithms for constructing
 DS as well as CDS over the network topology.
+
+#### Usage
+
+For the clustering to work, the Clusterconsumer and Clusterproducer apps need to be installed on every node in any given network.
 
 #### Repository
 
