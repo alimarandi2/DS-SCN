@@ -25,7 +25,12 @@ For the clustering to work, the Clusterconsumer and Clusterproducer apps need to
 
 #### Repository
 
-This repository contains the code of the ndnSIM-apps responsible for the clustering algorithm. The project uses ndnSIM 2.5.0.
+This repository contains the code of the ndnSIM-apps responsible for the clustering algorithm. The project uses ndnSIM 2.5.0. If you use this code, please cite the following paper:
+
+A. Marandi, V. Hofer, M. Gasparyan, T. Braun, and N. Thomos, “Bloom
+Filter-based Routing for Dominating Set-based Service-Centric Networks,”
+in Proc. of the IEEE/IFIP Network Operations and Management
+Symp. (NOMS), Budapest, Hungary, Apr. 2020.
 
 ## ndnSIM
 
